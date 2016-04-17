@@ -1,0 +1,37 @@
+2016-04-17 17:57:58.165 sorting[15509:15509] END
+
+Executable name: source_files/sorting/sorting
+Executable: ./source_files/sorting/sorting
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 246219.300537J
+PowerPlane0 (core) for core 1 energy before: 54008.173645J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 383.678894J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 45762.134888J
+
+Executing ./source_files/sorting/sorting
+
+Total time: 35.533627s
+Package energy after: 246927.038513  (707.737976J consumed)
+PowerPlane0 (core) for core 1 energy after: 54418.922668  (410.749023J consumed)
+PowerPlane1 (on-core GPU if avail) after: 384.322510  (0.643616J consumed)
+DRAM energy after: 45787.955383  (25.820496J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

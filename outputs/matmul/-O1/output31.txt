@@ -1,0 +1,37 @@
+-191.416792
+
+Executable name: source_files/matmul/matmul
+Executable: ./source_files/matmul/matmul
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 40662.356140J
+PowerPlane0 (core) for core 1 energy before: 198515.156128J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 216.668396J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 40180.093628J
+
+Executing ./source_files/matmul/matmul
+
+Total time: 21.362034s
+Package energy after: 41065.209229  (402.853088J consumed)
+PowerPlane0 (core) for core 1 energy after: 198736.494385  (221.338257J consumed)
+PowerPlane1 (on-core GPU if avail) after: 216.668396  (0.000000J consumed)
+DRAM energy after: 40204.992432  (24.898804J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

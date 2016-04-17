@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/matmul'
+gccgo -O1 -o matmul matmul.go
+make: Leaving directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/matmul'

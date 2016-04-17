@@ -1,0 +1,725 @@
+make: Entering directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/bzip2'
+rm -f *.o libbz2.a bzip2 bzip2recover \
+sample1.rb2 sample2.rb2 sample3.rb2 \
+sample1.tst sample2.tst sample3.tst
+
+If compilation produces errors, or a large number of warnings,
+please read README.COMPILATION.PROBLEMS -- you might be able to
+adjust the flags in this Makefile to improve matters.
+
+Also in README.COMPILATION.PROBLEMS are some hints that may help
+if your build produces an executable which is unable to correctly
+handle so-called 'large files' -- files of size 2GB or more.
+
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c blocksort.c
+blocksort.c: In function ‘mainSort’:
+blocksort.c:347:6: warning: inlining failed in call to ‘mainGtU’: call is unlikely and code size would grow [-Winline]
+ Bool mainGtU ( UInt32  i1, 
+      ^
+blocksort.c:514:18: warning: called from here [-Winline]
+          while ( mainGtU ( 
+                  ^
+blocksort.c:347:6: warning: inlining failed in call to ‘mainGtU’: call is unlikely and code size would grow [-Winline]
+ Bool mainGtU ( UInt32  i1, 
+      ^
+blocksort.c:528:18: warning: called from here [-Winline]
+          while ( mainGtU ( 
+                  ^
+blocksort.c:347:6: warning: inlining failed in call to ‘mainGtU’: call is unlikely and code size would grow [-Winline]
+ Bool mainGtU ( UInt32  i1, 
+      ^
+blocksort.c:542:18: warning: called from here [-Winline]
+          while ( mainGtU ( 
+                  ^
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c huffman.c
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c crctable.c
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c randtable.c
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c compress.c
+compress.c: In function ‘bsPutUInt32’:
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:88:4: warning: called from here [-Winline]
+    bsW ( s, 8,  u        & 0xffL );
+    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:87:4: warning: called from here [-Winline]
+    bsW ( s, 8, (u >>  8) & 0xffL );
+    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:86:4: warning: called from here [-Winline]
+    bsW ( s, 8, (u >> 16) & 0xffL );
+    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:85:4: warning: called from here [-Winline]
+    bsW ( s, 8, (u >> 24) & 0xffL );
+    ^
+compress.c: In function ‘bsPutUChar’:
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:96:4: warning: called from here [-Winline]
+    bsW( s, 8, (UInt32)c );
+    ^
+compress.c: In function ‘BZ2_compressBlock’:
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:650:7: warning: called from here [-Winline]
+       bsW ( s, 24, s->origPtr );
+       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:648:7: warning: called from here [-Winline]
+       bsW(s,1,0);
+       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:505:26: warning: called from here [-Winline]
+          if (inUse16[i]) bsW(s,1,1); else bsW(s,1,0);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:505:43: warning: called from here [-Winline]
+          if (inUse16[i]) bsW(s,1,1); else bsW(s,1,0);
+                                           ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:510:42: warning: called from here [-Winline]
+                if (s->inUse[i * 16 + j]) bsW(s,1,1); else bsW(s,1,0);
+                                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:510:59: warning: called from here [-Winline]
+                if (s->inUse[i * 16 + j]) bsW(s,1,1); else bsW(s,1,0);
+                                                           ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:520:4: warning: called from here [-Winline]
+    bsW ( s, 15, nSelectors );
+    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:519:4: warning: called from here [-Winline]
+    bsW ( s, 3, nGroups );
+    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:522:47: warning: called from here [-Winline]
+       for (j = 0; j < s->selectorMtf[i]; j++) bsW(s,1,1);
+                                               ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:523:7: warning: called from here [-Winline]
+       bsW(s,1,0);
+       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:533:7: warning: called from here [-Winline]
+       bsW ( s, 5, curr );
+       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:535:40: warning: called from here [-Winline]
+          while (curr < s->len[t][i]) { bsW(s,2,2); curr++; /* 10 */ };
+                                        ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:536:40: warning: called from here [-Winline]
+          while (curr > s->len[t][i]) { bsW(s,2,3); curr--; /* 11 */ };
+                                        ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:537:10: warning: called from here [-Winline]
+          bsW ( s, 1, 0 );
+          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:577:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(45); BZ_ITAH(46); BZ_ITAH(47); BZ_ITAH(48); BZ_ITAH(49);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:577:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(45); BZ_ITAH(46); BZ_ITAH(47); BZ_ITAH(48); BZ_ITAH(49);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:577:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(45); BZ_ITAH(46); BZ_ITAH(47); BZ_ITAH(48); BZ_ITAH(49);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:577:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(45); BZ_ITAH(46); BZ_ITAH(47); BZ_ITAH(48); BZ_ITAH(49);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:577:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(45); BZ_ITAH(46); BZ_ITAH(47); BZ_ITAH(48); BZ_ITAH(49);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:576:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(40); BZ_ITAH(41); BZ_ITAH(42); BZ_ITAH(43); BZ_ITAH(44);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:576:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(40); BZ_ITAH(41); BZ_ITAH(42); BZ_ITAH(43); BZ_ITAH(44);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:576:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(40); BZ_ITAH(41); BZ_ITAH(42); BZ_ITAH(43); BZ_ITAH(44);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:576:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(40); BZ_ITAH(41); BZ_ITAH(42); BZ_ITAH(43); BZ_ITAH(44);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:576:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(40); BZ_ITAH(41); BZ_ITAH(42); BZ_ITAH(43); BZ_ITAH(44);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:575:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(35); BZ_ITAH(36); BZ_ITAH(37); BZ_ITAH(38); BZ_ITAH(39);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:575:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(35); BZ_ITAH(36); BZ_ITAH(37); BZ_ITAH(38); BZ_ITAH(39);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:575:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(35); BZ_ITAH(36); BZ_ITAH(37); BZ_ITAH(38); BZ_ITAH(39);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:575:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(35); BZ_ITAH(36); BZ_ITAH(37); BZ_ITAH(38); BZ_ITAH(39);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:575:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(35); BZ_ITAH(36); BZ_ITAH(37); BZ_ITAH(38); BZ_ITAH(39);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:574:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(30); BZ_ITAH(31); BZ_ITAH(32); BZ_ITAH(33); BZ_ITAH(34);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:574:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(30); BZ_ITAH(31); BZ_ITAH(32); BZ_ITAH(33); BZ_ITAH(34);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:574:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(30); BZ_ITAH(31); BZ_ITAH(32); BZ_ITAH(33); BZ_ITAH(34);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:574:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(30); BZ_ITAH(31); BZ_ITAH(32); BZ_ITAH(33); BZ_ITAH(34);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:574:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(30); BZ_ITAH(31); BZ_ITAH(32); BZ_ITAH(33); BZ_ITAH(34);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:573:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(25); BZ_ITAH(26); BZ_ITAH(27); BZ_ITAH(28); BZ_ITAH(29);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:573:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(25); BZ_ITAH(26); BZ_ITAH(27); BZ_ITAH(28); BZ_ITAH(29);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:573:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(25); BZ_ITAH(26); BZ_ITAH(27); BZ_ITAH(28); BZ_ITAH(29);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:573:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(25); BZ_ITAH(26); BZ_ITAH(27); BZ_ITAH(28); BZ_ITAH(29);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:573:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(25); BZ_ITAH(26); BZ_ITAH(27); BZ_ITAH(28); BZ_ITAH(29);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:572:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(20); BZ_ITAH(21); BZ_ITAH(22); BZ_ITAH(23); BZ_ITAH(24);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:572:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(20); BZ_ITAH(21); BZ_ITAH(22); BZ_ITAH(23); BZ_ITAH(24);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:572:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(20); BZ_ITAH(21); BZ_ITAH(22); BZ_ITAH(23); BZ_ITAH(24);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:572:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(20); BZ_ITAH(21); BZ_ITAH(22); BZ_ITAH(23); BZ_ITAH(24);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:572:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(20); BZ_ITAH(21); BZ_ITAH(22); BZ_ITAH(23); BZ_ITAH(24);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:571:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(15); BZ_ITAH(16); BZ_ITAH(17); BZ_ITAH(18); BZ_ITAH(19);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:571:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(15); BZ_ITAH(16); BZ_ITAH(17); BZ_ITAH(18); BZ_ITAH(19);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:571:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(15); BZ_ITAH(16); BZ_ITAH(17); BZ_ITAH(18); BZ_ITAH(19);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:571:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(15); BZ_ITAH(16); BZ_ITAH(17); BZ_ITAH(18); BZ_ITAH(19);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:571:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(15); BZ_ITAH(16); BZ_ITAH(17); BZ_ITAH(18); BZ_ITAH(19);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:570:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(10); BZ_ITAH(11); BZ_ITAH(12); BZ_ITAH(13); BZ_ITAH(14);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:570:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(10); BZ_ITAH(11); BZ_ITAH(12); BZ_ITAH(13); BZ_ITAH(14);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:570:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(10); BZ_ITAH(11); BZ_ITAH(12); BZ_ITAH(13); BZ_ITAH(14);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:570:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(10); BZ_ITAH(11); BZ_ITAH(12); BZ_ITAH(13); BZ_ITAH(14);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:570:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(10); BZ_ITAH(11); BZ_ITAH(12); BZ_ITAH(13); BZ_ITAH(14);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:569:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(5);  BZ_ITAH(6);  BZ_ITAH(7);  BZ_ITAH(8);  BZ_ITAH(9);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:569:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(5);  BZ_ITAH(6);  BZ_ITAH(7);  BZ_ITAH(8);  BZ_ITAH(9);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:569:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(5);  BZ_ITAH(6);  BZ_ITAH(7);  BZ_ITAH(8);  BZ_ITAH(9);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:569:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(5);  BZ_ITAH(6);  BZ_ITAH(7);  BZ_ITAH(8);  BZ_ITAH(9);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:569:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(5);  BZ_ITAH(6);  BZ_ITAH(7);  BZ_ITAH(8);  BZ_ITAH(9);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:568:65: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(0);  BZ_ITAH(1);  BZ_ITAH(2);  BZ_ITAH(3);  BZ_ITAH(4);
+                                                                 ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:568:52: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(0);  BZ_ITAH(1);  BZ_ITAH(2);  BZ_ITAH(3);  BZ_ITAH(4);
+                                                    ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:568:39: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(0);  BZ_ITAH(1);  BZ_ITAH(2);  BZ_ITAH(3);  BZ_ITAH(4);
+                                       ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:568:26: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(0);  BZ_ITAH(1);  BZ_ITAH(2);  BZ_ITAH(3);  BZ_ITAH(4);
+                          ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:564:16: warning: called from here [-Winline]
+                bsW ( s,                             \
+                ^
+compress.c:568:13: note: in expansion of macro ‘BZ_ITAH’
+             BZ_ITAH(0);  BZ_ITAH(1);  BZ_ITAH(2);  BZ_ITAH(3);  BZ_ITAH(4);
+             ^
+compress.c:73:6: warning: inlining failed in call to ‘bsW’: call is unlikely and code size would grow [-Winline]
+ void bsW ( EState* s, Int32 n, UInt32 v )
+      ^
+compress.c:584:13: warning: called from here [-Winline]
+             bsW ( s, 
+             ^
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c decompress.c
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c bzlib.c
+bzlib.c: In function ‘BZ2_bzDecompress’:
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:735:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); BZ_RAND_UPD_MASK; 
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:741:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); BZ_RAND_UPD_MASK; 
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:747:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); BZ_RAND_UPD_MASK; 
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:752:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); BZ_RAND_UPD_MASK; 
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:755:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(s->k0); BZ_RAND_UPD_MASK; 
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:784:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); s->nblock_used++;
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:789:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); s->nblock_used++;
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:794:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); s->nblock_used++;
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:798:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(k1); s->nblock_used++;
+          ^
+bzlib.c:687:18: warning: inlining failed in call to ‘BZ2_indexIntoF’: call is unlikely and code size would grow [-Winline]
+ __inline__ Int32 BZ2_indexIntoF ( Int32 indx, Int32 *cftab )
+                  ^
+In file included from bzlib.c:31:0:
+bzlib_private.h:478:12: warning: called from here [-Winline]
+     cccc = BZ2_indexIntoF ( s->tPos, s->cftab );    \
+            ^
+bzlib.c:800:10: note: in expansion of macro ‘BZ_GET_SMALL’
+          BZ_GET_SMALL(s->k0); s->nblock_used++;
+          ^
+rm -f libbz2.a
+ar cq libbz2.a blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+ranlib libbz2.a
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c bzip2.c
+bzip2.c: In function ‘testStream’:
+bzip2.c:557:37: warning: variable ‘nread’ set but not used [-Wunused-but-set-variable]
+    Int32   bzerr, bzerr_dummy, ret, nread, streamNo, i;
+                                     ^
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64  -o bzip2 bzip2.o -L. -lbz2
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64 -c bzip2recover.c
+gcc -Wall -Winline -Os -D_FILE_OFFSET_BITS=64  -o bzip2recover bzip2recover.o
+make: Leaving directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/bzip2'

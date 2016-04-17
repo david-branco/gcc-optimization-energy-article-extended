@@ -1,0 +1,1736 @@
+2016-04-17 05:04:43.421 miscellany[7540:7540] 100
+2016-04-17 05:04:43.422 miscellany[7540:7540] abcdef
+2016-04-17 05:04:43.422 miscellany[7540:7540] X
+2016-04-17 05:04:43.422 miscellany[7540:7540] 100
+2016-04-17 05:04:43.422 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:43.422 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:43.422 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:43.422 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:43.422 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:43.422 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:43.422 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:43.422 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:43.422 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:43.422 miscellany[7540:7540] String not found
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is string A
+2016-04-17 05:04:43.422 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:43.422 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:43.422 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:43.422 miscellany[7540:7540] Month Name
+2016-04-17 05:04:43.422 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:43.422 miscellany[7540:7540]   1   January
+2016-04-17 05:04:43.422 miscellany[7540:7540]   2   February
+2016-04-17 05:04:43.422 miscellany[7540:7540]   3   March
+2016-04-17 05:04:43.422 miscellany[7540:7540]   4   April
+2016-04-17 05:04:43.422 miscellany[7540:7540]   5   May
+2016-04-17 05:04:43.422 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:43.422 miscellany[7540:7540]   7   July
+2016-04-17 05:04:43.422 miscellany[7540:7540]   8   August
+2016-04-17 05:04:43.422 miscellany[7540:7540]   9   September
+2016-04-17 05:04:43.422 miscellany[7540:7540]  10   October
+2016-04-17 05:04:43.422 miscellany[7540:7540]  11   November
+2016-04-17 05:04:43.422 miscellany[7540:7540]  12   December
+2016-04-17 05:04:43.422 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:43.422 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:43.422 miscellany[7540:7540] 1/3
+2016-04-17 05:04:43.423 miscellany[7540:7540] Number = 888, Balance = 180.000000
+2016-04-17 05:04:44.095 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:44.352 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:44.399 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:44.400 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:44.400 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.400 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:44.401 miscellany[7540:7540] one
+2016-04-17 05:04:44.401 miscellany[7540:7540] two
+2016-04-17 05:04:44.401 miscellany[7540:7540] three
+2016-04-17 05:04:44.401 miscellany[7540:7540] one
+2016-04-17 05:04:44.401 miscellany[7540:7540] two
+2016-04-17 05:04:44.401 miscellany[7540:7540] three
+2016-04-17 05:04:44.401 miscellany[7540:7540] oop
+2016-04-17 05:04:44.401 miscellany[7540:7540] bork
+2016-04-17 05:04:44.401 miscellany[7540:7540] greeble
+2016-04-17 05:04:44.401 miscellany[7540:7540] ponies
+2016-04-17 05:04:44.401 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:44.401 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:44.401 miscellany[7540:7540] lisi
+2016-04-17 05:04:44.401 miscellany[7540:7540] wangwu
+2016-04-17 05:04:44.401 miscellany[7540:7540] liuqi
+2016-04-17 05:04:44.401 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:44.401 miscellany[7540:7540] lisi
+2016-04-17 05:04:44.401 miscellany[7540:7540] wangwu
+2016-04-17 05:04:44.401 miscellany[7540:7540] liuqi
+2016-04-17 05:04:44.401 miscellany[7540:7540] liuqi
+2016-04-17 05:04:44.401 miscellany[7540:7540] wangwu
+2016-04-17 05:04:44.401 miscellany[7540:7540] lisi
+2016-04-17 05:04:44.401 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:44.401 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:44.401 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:44.401 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:44.401 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:44.402 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:44.402 miscellany[7540:7540] two is 2
+2016-04-17 05:04:44.402 miscellany[7540:7540] two is 2
+2016-04-17 05:04:44.402 miscellany[7540:7540] one is 1
+2016-04-17 05:04:44.402 miscellany[7540:7540] three is 3
+2016-04-17 05:04:44.402 miscellany[7540:7540] two is 2
+2016-04-17 05:04:44.402 miscellany[7540:7540] one is 1
+2016-04-17 05:04:44.402 miscellany[7540:7540] three is 3
+2016-04-17 05:04:44.402 miscellany[7540:7540] one is 1
+2016-04-17 05:04:44.402 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:44.402 miscellany[7540:7540] one is 1
+2016-04-17 05:04:44.402 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:44.402 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:44.402 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:44.402 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:44.402 miscellany[7540:7540] it's a 
+2016-04-17 05:04:44.402 miscellany[7540:7540] three
+2016-04-17 05:04:44.402 miscellany[7540:7540] four
+2016-04-17 05:04:44.402 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:44.402 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:44.402 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:44.402 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:44.402 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:44.402 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:44.402 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:44.402 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:44.402 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:44.402 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:44.402 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:44.402 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:44.402 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:44.402 miscellany[7540:7540] it's document
+2016-04-17 05:04:44.402 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:44.402 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:44.402 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:44.402 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:44.402 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:44.402 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:44.402 miscellany[7540:7540] <RetainTracker: 0x116e4a0>
+2016-04-17 05:04:44.402 miscellany[7540:7540] 2
+2016-04-17 05:04:44.402 miscellany[7540:7540] 3
+2016-04-17 05:04:44.402 miscellany[7540:7540] 2
+2016-04-17 05:04:44.402 miscellany[7540:7540] 1
+2016-04-17 05:04:44.402 miscellany[7540:7540] 2
+2016-04-17 05:04:44.402 miscellany[7540:7540] 1
+2016-04-17 05:04:44.402 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:44.402 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:44.402 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:44.510 miscellany[7540:7540] Duration: 0.108414s
+2016-04-17 05:04:44.511 miscellany[7540:7540] END
+2016-04-17 05:04:44.511 miscellany[7540:7540] 100
+2016-04-17 05:04:44.511 miscellany[7540:7540] abcdef
+2016-04-17 05:04:44.511 miscellany[7540:7540] X
+2016-04-17 05:04:44.511 miscellany[7540:7540] 100
+2016-04-17 05:04:44.511 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:44.511 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:44.511 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:44.511 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:44.511 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:44.511 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:44.511 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:44.511 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:44.511 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:44.511 miscellany[7540:7540] String not found
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is string A
+2016-04-17 05:04:44.511 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:44.511 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:44.511 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:44.511 miscellany[7540:7540] Month Name
+2016-04-17 05:04:44.511 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:44.511 miscellany[7540:7540]   1   January
+2016-04-17 05:04:44.511 miscellany[7540:7540]   2   February
+2016-04-17 05:04:44.511 miscellany[7540:7540]   3   March
+2016-04-17 05:04:44.511 miscellany[7540:7540]   4   April
+2016-04-17 05:04:44.511 miscellany[7540:7540]   5   May
+2016-04-17 05:04:44.511 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:44.511 miscellany[7540:7540]   7   July
+2016-04-17 05:04:44.511 miscellany[7540:7540]   8   August
+2016-04-17 05:04:44.511 miscellany[7540:7540]   9   September
+2016-04-17 05:04:44.511 miscellany[7540:7540]  10   October
+2016-04-17 05:04:44.511 miscellany[7540:7540]  11   November
+2016-04-17 05:04:44.511 miscellany[7540:7540]  12   December
+2016-04-17 05:04:44.511 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:44.511 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:44.511 miscellany[7540:7540] 1/3
+2016-04-17 05:04:44.511 miscellany[7540:7540] Number = 292, Balance = 764.000000
+2016-04-17 05:04:45.173 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:45.430 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:45.476 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:45.478 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:45.478 miscellany[7540:7540] one
+2016-04-17 05:04:45.478 miscellany[7540:7540] two
+2016-04-17 05:04:45.478 miscellany[7540:7540] three
+2016-04-17 05:04:45.478 miscellany[7540:7540] one
+2016-04-17 05:04:45.478 miscellany[7540:7540] two
+2016-04-17 05:04:45.478 miscellany[7540:7540] three
+2016-04-17 05:04:45.478 miscellany[7540:7540] oop
+2016-04-17 05:04:45.478 miscellany[7540:7540] bork
+2016-04-17 05:04:45.478 miscellany[7540:7540] greeble
+2016-04-17 05:04:45.478 miscellany[7540:7540] ponies
+2016-04-17 05:04:45.478 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:45.478 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:45.478 miscellany[7540:7540] lisi
+2016-04-17 05:04:45.478 miscellany[7540:7540] wangwu
+2016-04-17 05:04:45.478 miscellany[7540:7540] liuqi
+2016-04-17 05:04:45.478 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:45.479 miscellany[7540:7540] lisi
+2016-04-17 05:04:45.479 miscellany[7540:7540] wangwu
+2016-04-17 05:04:45.479 miscellany[7540:7540] liuqi
+2016-04-17 05:04:45.479 miscellany[7540:7540] liuqi
+2016-04-17 05:04:45.479 miscellany[7540:7540] wangwu
+2016-04-17 05:04:45.479 miscellany[7540:7540] lisi
+2016-04-17 05:04:45.479 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:45.479 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:45.479 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:45.479 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:45.479 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:45.479 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:45.479 miscellany[7540:7540] two is 2
+2016-04-17 05:04:45.479 miscellany[7540:7540] two is 2
+2016-04-17 05:04:45.479 miscellany[7540:7540] one is 1
+2016-04-17 05:04:45.479 miscellany[7540:7540] three is 3
+2016-04-17 05:04:45.479 miscellany[7540:7540] two is 2
+2016-04-17 05:04:45.479 miscellany[7540:7540] one is 1
+2016-04-17 05:04:45.479 miscellany[7540:7540] three is 3
+2016-04-17 05:04:45.479 miscellany[7540:7540] one is 1
+2016-04-17 05:04:45.479 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:45.479 miscellany[7540:7540] one is 1
+2016-04-17 05:04:45.479 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:45.479 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:45.479 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:45.479 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:45.479 miscellany[7540:7540] it's a 
+2016-04-17 05:04:45.479 miscellany[7540:7540] three
+2016-04-17 05:04:45.479 miscellany[7540:7540] four
+2016-04-17 05:04:45.479 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:45.479 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:45.479 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:45.479 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:45.479 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:45.479 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:45.479 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:45.479 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:45.479 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:45.479 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:45.479 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:45.479 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:45.479 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:45.479 miscellany[7540:7540] it's document
+2016-04-17 05:04:45.479 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:45.479 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:45.479 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:45.479 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:45.479 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:45.479 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:45.479 miscellany[7540:7540] <RetainTracker: 0x111e2c0>
+2016-04-17 05:04:45.479 miscellany[7540:7540] 2
+2016-04-17 05:04:45.479 miscellany[7540:7540] 3
+2016-04-17 05:04:45.479 miscellany[7540:7540] 2
+2016-04-17 05:04:45.479 miscellany[7540:7540] 1
+2016-04-17 05:04:45.479 miscellany[7540:7540] 2
+2016-04-17 05:04:45.479 miscellany[7540:7540] 1
+2016-04-17 05:04:45.479 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:45.479 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:45.479 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:45.599 miscellany[7540:7540] Duration: 0.119715s
+2016-04-17 05:04:45.599 miscellany[7540:7540] END
+2016-04-17 05:04:45.599 miscellany[7540:7540] 100
+2016-04-17 05:04:45.599 miscellany[7540:7540] abcdef
+2016-04-17 05:04:45.599 miscellany[7540:7540] X
+2016-04-17 05:04:45.599 miscellany[7540:7540] 100
+2016-04-17 05:04:45.599 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:45.599 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:45.599 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:45.599 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:45.599 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:45.599 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:45.599 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:45.599 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:45.599 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:45.599 miscellany[7540:7540] String not found
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is string A
+2016-04-17 05:04:45.599 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:45.599 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:45.599 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:45.599 miscellany[7540:7540] Month Name
+2016-04-17 05:04:45.599 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:45.599 miscellany[7540:7540]   1   January
+2016-04-17 05:04:45.599 miscellany[7540:7540]   2   February
+2016-04-17 05:04:45.599 miscellany[7540:7540]   3   March
+2016-04-17 05:04:45.599 miscellany[7540:7540]   4   April
+2016-04-17 05:04:45.599 miscellany[7540:7540]   5   May
+2016-04-17 05:04:45.600 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:45.600 miscellany[7540:7540]   7   July
+2016-04-17 05:04:45.600 miscellany[7540:7540]   8   August
+2016-04-17 05:04:45.600 miscellany[7540:7540]   9   September
+2016-04-17 05:04:45.600 miscellany[7540:7540]  10   October
+2016-04-17 05:04:45.600 miscellany[7540:7540]  11   November
+2016-04-17 05:04:45.600 miscellany[7540:7540]  12   December
+2016-04-17 05:04:45.600 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:45.600 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:45.600 miscellany[7540:7540] 1/3
+2016-04-17 05:04:45.600 miscellany[7540:7540] Number = 931, Balance = 919.000000
+2016-04-17 05:04:46.210 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:46.466 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:46.512 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:46.514 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.514 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.515 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.515 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.515 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.515 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:46.515 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:46.515 miscellany[7540:7540] one
+2016-04-17 05:04:46.515 miscellany[7540:7540] two
+2016-04-17 05:04:46.515 miscellany[7540:7540] three
+2016-04-17 05:04:46.515 miscellany[7540:7540] one
+2016-04-17 05:04:46.515 miscellany[7540:7540] two
+2016-04-17 05:04:46.515 miscellany[7540:7540] three
+2016-04-17 05:04:46.515 miscellany[7540:7540] oop
+2016-04-17 05:04:46.515 miscellany[7540:7540] bork
+2016-04-17 05:04:46.515 miscellany[7540:7540] greeble
+2016-04-17 05:04:46.515 miscellany[7540:7540] ponies
+2016-04-17 05:04:46.515 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:46.515 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:46.515 miscellany[7540:7540] lisi
+2016-04-17 05:04:46.515 miscellany[7540:7540] wangwu
+2016-04-17 05:04:46.515 miscellany[7540:7540] liuqi
+2016-04-17 05:04:46.515 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:46.515 miscellany[7540:7540] lisi
+2016-04-17 05:04:46.515 miscellany[7540:7540] wangwu
+2016-04-17 05:04:46.515 miscellany[7540:7540] liuqi
+2016-04-17 05:04:46.515 miscellany[7540:7540] liuqi
+2016-04-17 05:04:46.515 miscellany[7540:7540] wangwu
+2016-04-17 05:04:46.515 miscellany[7540:7540] lisi
+2016-04-17 05:04:46.515 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:46.515 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:46.515 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:46.515 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:46.515 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:46.515 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:46.515 miscellany[7540:7540] two is 2
+2016-04-17 05:04:46.515 miscellany[7540:7540] two is 2
+2016-04-17 05:04:46.515 miscellany[7540:7540] one is 1
+2016-04-17 05:04:46.515 miscellany[7540:7540] three is 3
+2016-04-17 05:04:46.515 miscellany[7540:7540] two is 2
+2016-04-17 05:04:46.515 miscellany[7540:7540] one is 1
+2016-04-17 05:04:46.515 miscellany[7540:7540] three is 3
+2016-04-17 05:04:46.515 miscellany[7540:7540] one is 1
+2016-04-17 05:04:46.515 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:46.515 miscellany[7540:7540] one is 1
+2016-04-17 05:04:46.515 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:46.515 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:46.515 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:46.515 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:46.515 miscellany[7540:7540] it's a 
+2016-04-17 05:04:46.515 miscellany[7540:7540] three
+2016-04-17 05:04:46.515 miscellany[7540:7540] four
+2016-04-17 05:04:46.515 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:46.515 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:46.515 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:46.515 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:46.515 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:46.515 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:46.515 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:46.515 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:46.515 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:46.516 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:46.516 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:46.516 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:46.516 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:46.516 miscellany[7540:7540] it's document
+2016-04-17 05:04:46.516 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:46.516 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:46.516 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:46.516 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:46.516 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:46.516 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:46.516 miscellany[7540:7540] <RetainTracker: 0x1164310>
+2016-04-17 05:04:46.516 miscellany[7540:7540] 2
+2016-04-17 05:04:46.516 miscellany[7540:7540] 3
+2016-04-17 05:04:46.516 miscellany[7540:7540] 2
+2016-04-17 05:04:46.516 miscellany[7540:7540] 1
+2016-04-17 05:04:46.516 miscellany[7540:7540] 2
+2016-04-17 05:04:46.516 miscellany[7540:7540] 1
+2016-04-17 05:04:46.516 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:46.516 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:46.516 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:46.624 miscellany[7540:7540] Duration: 0.108473s
+2016-04-17 05:04:46.624 miscellany[7540:7540] END
+2016-04-17 05:04:46.624 miscellany[7540:7540] 100
+2016-04-17 05:04:46.624 miscellany[7540:7540] abcdef
+2016-04-17 05:04:46.624 miscellany[7540:7540] X
+2016-04-17 05:04:46.624 miscellany[7540:7540] 100
+2016-04-17 05:04:46.624 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:46.624 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:46.624 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:46.624 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:46.624 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:46.624 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:46.624 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:46.624 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:46.624 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:46.624 miscellany[7540:7540] String not found
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is string A
+2016-04-17 05:04:46.624 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:46.624 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:46.624 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:46.624 miscellany[7540:7540] Month Name
+2016-04-17 05:04:46.624 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:46.624 miscellany[7540:7540]   1   January
+2016-04-17 05:04:46.624 miscellany[7540:7540]   2   February
+2016-04-17 05:04:46.624 miscellany[7540:7540]   3   March
+2016-04-17 05:04:46.624 miscellany[7540:7540]   4   April
+2016-04-17 05:04:46.624 miscellany[7540:7540]   5   May
+2016-04-17 05:04:46.624 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:46.624 miscellany[7540:7540]   7   July
+2016-04-17 05:04:46.624 miscellany[7540:7540]   8   August
+2016-04-17 05:04:46.624 miscellany[7540:7540]   9   September
+2016-04-17 05:04:46.624 miscellany[7540:7540]  10   October
+2016-04-17 05:04:46.624 miscellany[7540:7540]  11   November
+2016-04-17 05:04:46.624 miscellany[7540:7540]  12   December
+2016-04-17 05:04:46.624 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:46.624 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:46.624 miscellany[7540:7540] 1/3
+2016-04-17 05:04:46.625 miscellany[7540:7540] Number = 489, Balance = 515.000000
+2016-04-17 05:04:47.234 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:47.491 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:47.537 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:47.539 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:47.539 miscellany[7540:7540] one
+2016-04-17 05:04:47.539 miscellany[7540:7540] two
+2016-04-17 05:04:47.539 miscellany[7540:7540] three
+2016-04-17 05:04:47.539 miscellany[7540:7540] one
+2016-04-17 05:04:47.539 miscellany[7540:7540] two
+2016-04-17 05:04:47.539 miscellany[7540:7540] three
+2016-04-17 05:04:47.540 miscellany[7540:7540] oop
+2016-04-17 05:04:47.540 miscellany[7540:7540] bork
+2016-04-17 05:04:47.540 miscellany[7540:7540] greeble
+2016-04-17 05:04:47.540 miscellany[7540:7540] ponies
+2016-04-17 05:04:47.540 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:47.540 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:47.540 miscellany[7540:7540] lisi
+2016-04-17 05:04:47.540 miscellany[7540:7540] wangwu
+2016-04-17 05:04:47.540 miscellany[7540:7540] liuqi
+2016-04-17 05:04:47.540 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:47.540 miscellany[7540:7540] lisi
+2016-04-17 05:04:47.540 miscellany[7540:7540] wangwu
+2016-04-17 05:04:47.540 miscellany[7540:7540] liuqi
+2016-04-17 05:04:47.540 miscellany[7540:7540] liuqi
+2016-04-17 05:04:47.540 miscellany[7540:7540] wangwu
+2016-04-17 05:04:47.540 miscellany[7540:7540] lisi
+2016-04-17 05:04:47.540 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:47.540 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:47.540 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:47.540 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:47.540 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:47.540 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:47.540 miscellany[7540:7540] two is 2
+2016-04-17 05:04:47.540 miscellany[7540:7540] two is 2
+2016-04-17 05:04:47.540 miscellany[7540:7540] one is 1
+2016-04-17 05:04:47.540 miscellany[7540:7540] three is 3
+2016-04-17 05:04:47.540 miscellany[7540:7540] two is 2
+2016-04-17 05:04:47.540 miscellany[7540:7540] one is 1
+2016-04-17 05:04:47.540 miscellany[7540:7540] three is 3
+2016-04-17 05:04:47.540 miscellany[7540:7540] one is 1
+2016-04-17 05:04:47.540 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:47.540 miscellany[7540:7540] one is 1
+2016-04-17 05:04:47.540 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:47.540 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:47.540 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:47.540 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:47.540 miscellany[7540:7540] it's a 
+2016-04-17 05:04:47.540 miscellany[7540:7540] three
+2016-04-17 05:04:47.540 miscellany[7540:7540] four
+2016-04-17 05:04:47.540 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:47.540 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:47.540 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:47.540 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:47.540 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:47.540 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:47.540 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:47.540 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:47.540 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:47.540 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:47.540 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:47.540 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:47.540 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:47.540 miscellany[7540:7540] it's document
+2016-04-17 05:04:47.540 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:47.540 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:47.540 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:47.540 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:47.540 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:47.540 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:47.540 miscellany[7540:7540] <RetainTracker: 0x1196890>
+2016-04-17 05:04:47.540 miscellany[7540:7540] 2
+2016-04-17 05:04:47.540 miscellany[7540:7540] 3
+2016-04-17 05:04:47.540 miscellany[7540:7540] 2
+2016-04-17 05:04:47.541 miscellany[7540:7540] 1
+2016-04-17 05:04:47.541 miscellany[7540:7540] 2
+2016-04-17 05:04:47.541 miscellany[7540:7540] 1
+2016-04-17 05:04:47.541 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:47.541 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:47.541 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:47.649 miscellany[7540:7540] Duration: 0.108639s
+2016-04-17 05:04:47.649 miscellany[7540:7540] END
+2016-04-17 05:04:47.649 miscellany[7540:7540] 100
+2016-04-17 05:04:47.649 miscellany[7540:7540] abcdef
+2016-04-17 05:04:47.649 miscellany[7540:7540] X
+2016-04-17 05:04:47.649 miscellany[7540:7540] 100
+2016-04-17 05:04:47.649 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:47.649 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:47.649 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:47.649 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:47.649 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:47.649 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:47.649 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:47.649 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:47.649 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:47.649 miscellany[7540:7540] String not found
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is string A
+2016-04-17 05:04:47.649 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:47.649 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:47.649 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:47.649 miscellany[7540:7540] Month Name
+2016-04-17 05:04:47.649 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:47.649 miscellany[7540:7540]   1   January
+2016-04-17 05:04:47.649 miscellany[7540:7540]   2   February
+2016-04-17 05:04:47.649 miscellany[7540:7540]   3   March
+2016-04-17 05:04:47.649 miscellany[7540:7540]   4   April
+2016-04-17 05:04:47.649 miscellany[7540:7540]   5   May
+2016-04-17 05:04:47.649 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:47.649 miscellany[7540:7540]   7   July
+2016-04-17 05:04:47.649 miscellany[7540:7540]   8   August
+2016-04-17 05:04:47.650 miscellany[7540:7540]   9   September
+2016-04-17 05:04:47.650 miscellany[7540:7540]  10   October
+2016-04-17 05:04:47.650 miscellany[7540:7540]  11   November
+2016-04-17 05:04:47.650 miscellany[7540:7540]  12   December
+2016-04-17 05:04:47.650 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:47.650 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:47.650 miscellany[7540:7540] 1/3
+2016-04-17 05:04:47.650 miscellany[7540:7540] Number = 236, Balance = 437.000000
+2016-04-17 05:04:48.285 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:48.542 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:48.588 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:48.590 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.590 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:48.591 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:48.591 miscellany[7540:7540] one
+2016-04-17 05:04:48.591 miscellany[7540:7540] two
+2016-04-17 05:04:48.591 miscellany[7540:7540] three
+2016-04-17 05:04:48.591 miscellany[7540:7540] one
+2016-04-17 05:04:48.591 miscellany[7540:7540] two
+2016-04-17 05:04:48.591 miscellany[7540:7540] three
+2016-04-17 05:04:48.591 miscellany[7540:7540] oop
+2016-04-17 05:04:48.591 miscellany[7540:7540] bork
+2016-04-17 05:04:48.591 miscellany[7540:7540] greeble
+2016-04-17 05:04:48.591 miscellany[7540:7540] ponies
+2016-04-17 05:04:48.591 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:48.591 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:48.591 miscellany[7540:7540] lisi
+2016-04-17 05:04:48.591 miscellany[7540:7540] wangwu
+2016-04-17 05:04:48.591 miscellany[7540:7540] liuqi
+2016-04-17 05:04:48.591 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:48.591 miscellany[7540:7540] lisi
+2016-04-17 05:04:48.591 miscellany[7540:7540] wangwu
+2016-04-17 05:04:48.591 miscellany[7540:7540] liuqi
+2016-04-17 05:04:48.591 miscellany[7540:7540] liuqi
+2016-04-17 05:04:48.591 miscellany[7540:7540] wangwu
+2016-04-17 05:04:48.591 miscellany[7540:7540] lisi
+2016-04-17 05:04:48.591 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:48.591 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:48.591 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:48.591 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:48.591 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:48.591 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:48.591 miscellany[7540:7540] two is 2
+2016-04-17 05:04:48.591 miscellany[7540:7540] two is 2
+2016-04-17 05:04:48.591 miscellany[7540:7540] one is 1
+2016-04-17 05:04:48.591 miscellany[7540:7540] three is 3
+2016-04-17 05:04:48.591 miscellany[7540:7540] two is 2
+2016-04-17 05:04:48.591 miscellany[7540:7540] one is 1
+2016-04-17 05:04:48.591 miscellany[7540:7540] three is 3
+2016-04-17 05:04:48.591 miscellany[7540:7540] one is 1
+2016-04-17 05:04:48.591 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:48.591 miscellany[7540:7540] one is 1
+2016-04-17 05:04:48.591 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:48.591 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:48.591 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:48.591 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:48.591 miscellany[7540:7540] it's a 
+2016-04-17 05:04:48.591 miscellany[7540:7540] three
+2016-04-17 05:04:48.591 miscellany[7540:7540] four
+2016-04-17 05:04:48.591 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:48.591 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:48.591 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:48.591 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:48.591 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:48.591 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:48.591 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:48.591 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:48.591 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:48.591 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:48.591 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:48.591 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:48.591 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:48.591 miscellany[7540:7540] it's document
+2016-04-17 05:04:48.591 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:48.591 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:48.591 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:48.592 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:48.592 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:48.592 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:48.592 miscellany[7540:7540] <RetainTracker: 0x114a300>
+2016-04-17 05:04:48.592 miscellany[7540:7540] 2
+2016-04-17 05:04:48.592 miscellany[7540:7540] 3
+2016-04-17 05:04:48.592 miscellany[7540:7540] 2
+2016-04-17 05:04:48.592 miscellany[7540:7540] 1
+2016-04-17 05:04:48.592 miscellany[7540:7540] 2
+2016-04-17 05:04:48.592 miscellany[7540:7540] 1
+2016-04-17 05:04:48.592 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:48.592 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:48.592 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:48.700 miscellany[7540:7540] Duration: 0.108678s
+2016-04-17 05:04:48.700 miscellany[7540:7540] END
+2016-04-17 05:04:48.700 miscellany[7540:7540] 100
+2016-04-17 05:04:48.700 miscellany[7540:7540] abcdef
+2016-04-17 05:04:48.700 miscellany[7540:7540] X
+2016-04-17 05:04:48.700 miscellany[7540:7540] 100
+2016-04-17 05:04:48.700 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:48.700 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:48.700 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:48.700 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:48.700 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:48.700 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:48.700 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:48.700 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:48.700 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:48.700 miscellany[7540:7540] String not found
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:48.700 miscellany[7540:7540] This is string A
+2016-04-17 05:04:48.701 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:48.701 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:48.701 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:48.701 miscellany[7540:7540] Month Name
+2016-04-17 05:04:48.701 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:48.701 miscellany[7540:7540]   1   January
+2016-04-17 05:04:48.701 miscellany[7540:7540]   2   February
+2016-04-17 05:04:48.701 miscellany[7540:7540]   3   March
+2016-04-17 05:04:48.701 miscellany[7540:7540]   4   April
+2016-04-17 05:04:48.701 miscellany[7540:7540]   5   May
+2016-04-17 05:04:48.701 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:48.701 miscellany[7540:7540]   7   July
+2016-04-17 05:04:48.701 miscellany[7540:7540]   8   August
+2016-04-17 05:04:48.701 miscellany[7540:7540]   9   September
+2016-04-17 05:04:48.701 miscellany[7540:7540]  10   October
+2016-04-17 05:04:48.701 miscellany[7540:7540]  11   November
+2016-04-17 05:04:48.701 miscellany[7540:7540]  12   December
+2016-04-17 05:04:48.701 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:48.701 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:48.701 miscellany[7540:7540] 1/3
+2016-04-17 05:04:48.701 miscellany[7540:7540] Number = 293, Balance = 648.000000
+2016-04-17 05:04:49.352 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:49.609 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:49.656 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:49.657 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.657 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:49.658 miscellany[7540:7540] one
+2016-04-17 05:04:49.658 miscellany[7540:7540] two
+2016-04-17 05:04:49.658 miscellany[7540:7540] three
+2016-04-17 05:04:49.658 miscellany[7540:7540] one
+2016-04-17 05:04:49.658 miscellany[7540:7540] two
+2016-04-17 05:04:49.658 miscellany[7540:7540] three
+2016-04-17 05:04:49.658 miscellany[7540:7540] oop
+2016-04-17 05:04:49.658 miscellany[7540:7540] bork
+2016-04-17 05:04:49.658 miscellany[7540:7540] greeble
+2016-04-17 05:04:49.658 miscellany[7540:7540] ponies
+2016-04-17 05:04:49.658 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:49.658 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:49.658 miscellany[7540:7540] lisi
+2016-04-17 05:04:49.658 miscellany[7540:7540] wangwu
+2016-04-17 05:04:49.658 miscellany[7540:7540] liuqi
+2016-04-17 05:04:49.658 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:49.658 miscellany[7540:7540] lisi
+2016-04-17 05:04:49.658 miscellany[7540:7540] wangwu
+2016-04-17 05:04:49.658 miscellany[7540:7540] liuqi
+2016-04-17 05:04:49.658 miscellany[7540:7540] liuqi
+2016-04-17 05:04:49.658 miscellany[7540:7540] wangwu
+2016-04-17 05:04:49.658 miscellany[7540:7540] lisi
+2016-04-17 05:04:49.658 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:49.658 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:49.658 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:49.658 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:49.658 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:49.658 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:49.658 miscellany[7540:7540] two is 2
+2016-04-17 05:04:49.658 miscellany[7540:7540] two is 2
+2016-04-17 05:04:49.659 miscellany[7540:7540] one is 1
+2016-04-17 05:04:49.659 miscellany[7540:7540] three is 3
+2016-04-17 05:04:49.659 miscellany[7540:7540] two is 2
+2016-04-17 05:04:49.659 miscellany[7540:7540] one is 1
+2016-04-17 05:04:49.659 miscellany[7540:7540] three is 3
+2016-04-17 05:04:49.659 miscellany[7540:7540] one is 1
+2016-04-17 05:04:49.659 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:49.659 miscellany[7540:7540] one is 1
+2016-04-17 05:04:49.659 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:49.659 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:49.659 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:49.659 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:49.659 miscellany[7540:7540] it's a 
+2016-04-17 05:04:49.659 miscellany[7540:7540] three
+2016-04-17 05:04:49.659 miscellany[7540:7540] four
+2016-04-17 05:04:49.659 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:49.659 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:49.659 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:49.659 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:49.659 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:49.659 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:49.659 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:49.659 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:49.659 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:49.659 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:49.659 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:49.659 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:49.659 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:49.659 miscellany[7540:7540] it's document
+2016-04-17 05:04:49.659 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:49.659 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:49.659 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:49.659 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:49.659 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:49.659 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:49.659 miscellany[7540:7540] <RetainTracker: 0x11da5f0>
+2016-04-17 05:04:49.659 miscellany[7540:7540] 2
+2016-04-17 05:04:49.659 miscellany[7540:7540] 3
+2016-04-17 05:04:49.659 miscellany[7540:7540] 2
+2016-04-17 05:04:49.659 miscellany[7540:7540] 1
+2016-04-17 05:04:49.659 miscellany[7540:7540] 2
+2016-04-17 05:04:49.659 miscellany[7540:7540] 1
+2016-04-17 05:04:49.659 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:49.659 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:49.659 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:49.767 miscellany[7540:7540] Duration: 0.108368s
+2016-04-17 05:04:49.767 miscellany[7540:7540] END
+2016-04-17 05:04:49.767 miscellany[7540:7540] 100
+2016-04-17 05:04:49.767 miscellany[7540:7540] abcdef
+2016-04-17 05:04:49.767 miscellany[7540:7540] X
+2016-04-17 05:04:49.767 miscellany[7540:7540] 100
+2016-04-17 05:04:49.767 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:49.767 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:49.767 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:49.767 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:49.767 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:49.767 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:49.767 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:49.767 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:49.767 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:49.767 miscellany[7540:7540] String not found
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is string A
+2016-04-17 05:04:49.767 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:49.768 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:49.768 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:49.768 miscellany[7540:7540] Month Name
+2016-04-17 05:04:49.768 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:49.768 miscellany[7540:7540]   1   January
+2016-04-17 05:04:49.768 miscellany[7540:7540]   2   February
+2016-04-17 05:04:49.768 miscellany[7540:7540]   3   March
+2016-04-17 05:04:49.768 miscellany[7540:7540]   4   April
+2016-04-17 05:04:49.768 miscellany[7540:7540]   5   May
+2016-04-17 05:04:49.768 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:49.768 miscellany[7540:7540]   7   July
+2016-04-17 05:04:49.768 miscellany[7540:7540]   8   August
+2016-04-17 05:04:49.768 miscellany[7540:7540]   9   September
+2016-04-17 05:04:49.768 miscellany[7540:7540]  10   October
+2016-04-17 05:04:49.768 miscellany[7540:7540]  11   November
+2016-04-17 05:04:49.768 miscellany[7540:7540]  12   December
+2016-04-17 05:04:49.768 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:49.768 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:49.768 miscellany[7540:7540] 1/3
+2016-04-17 05:04:49.768 miscellany[7540:7540] Number = 906, Balance = 132.000000
+2016-04-17 05:04:50.374 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:50.630 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:50.677 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:50.679 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:50.679 miscellany[7540:7540] one
+2016-04-17 05:04:50.679 miscellany[7540:7540] two
+2016-04-17 05:04:50.679 miscellany[7540:7540] three
+2016-04-17 05:04:50.679 miscellany[7540:7540] one
+2016-04-17 05:04:50.679 miscellany[7540:7540] two
+2016-04-17 05:04:50.679 miscellany[7540:7540] three
+2016-04-17 05:04:50.679 miscellany[7540:7540] oop
+2016-04-17 05:04:50.679 miscellany[7540:7540] bork
+2016-04-17 05:04:50.679 miscellany[7540:7540] greeble
+2016-04-17 05:04:50.679 miscellany[7540:7540] ponies
+2016-04-17 05:04:50.679 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:50.679 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:50.679 miscellany[7540:7540] lisi
+2016-04-17 05:04:50.679 miscellany[7540:7540] wangwu
+2016-04-17 05:04:50.679 miscellany[7540:7540] liuqi
+2016-04-17 05:04:50.679 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:50.679 miscellany[7540:7540] lisi
+2016-04-17 05:04:50.679 miscellany[7540:7540] wangwu
+2016-04-17 05:04:50.679 miscellany[7540:7540] liuqi
+2016-04-17 05:04:50.679 miscellany[7540:7540] liuqi
+2016-04-17 05:04:50.679 miscellany[7540:7540] wangwu
+2016-04-17 05:04:50.679 miscellany[7540:7540] lisi
+2016-04-17 05:04:50.679 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:50.680 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:50.680 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:50.680 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:50.680 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:50.680 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:50.680 miscellany[7540:7540] two is 2
+2016-04-17 05:04:50.680 miscellany[7540:7540] two is 2
+2016-04-17 05:04:50.680 miscellany[7540:7540] one is 1
+2016-04-17 05:04:50.680 miscellany[7540:7540] three is 3
+2016-04-17 05:04:50.680 miscellany[7540:7540] two is 2
+2016-04-17 05:04:50.680 miscellany[7540:7540] one is 1
+2016-04-17 05:04:50.680 miscellany[7540:7540] three is 3
+2016-04-17 05:04:50.680 miscellany[7540:7540] one is 1
+2016-04-17 05:04:50.680 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:50.680 miscellany[7540:7540] one is 1
+2016-04-17 05:04:50.680 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:50.680 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:50.680 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:50.680 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:50.680 miscellany[7540:7540] it's a 
+2016-04-17 05:04:50.680 miscellany[7540:7540] three
+2016-04-17 05:04:50.680 miscellany[7540:7540] four
+2016-04-17 05:04:50.680 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:50.680 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:50.680 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:50.680 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:50.680 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:50.680 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:50.680 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:50.680 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:50.680 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:50.680 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:50.680 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:50.680 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:50.680 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:50.680 miscellany[7540:7540] it's document
+2016-04-17 05:04:50.680 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:50.680 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:50.680 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:50.680 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:50.680 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:50.680 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:50.680 miscellany[7540:7540] <RetainTracker: 0x11ed850>
+2016-04-17 05:04:50.680 miscellany[7540:7540] 2
+2016-04-17 05:04:50.680 miscellany[7540:7540] 3
+2016-04-17 05:04:50.680 miscellany[7540:7540] 2
+2016-04-17 05:04:50.680 miscellany[7540:7540] 1
+2016-04-17 05:04:50.680 miscellany[7540:7540] 2
+2016-04-17 05:04:50.680 miscellany[7540:7540] 1
+2016-04-17 05:04:50.680 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:50.680 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:50.680 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:50.789 miscellany[7540:7540] Duration: 0.108466s
+2016-04-17 05:04:50.789 miscellany[7540:7540] END
+2016-04-17 05:04:50.789 miscellany[7540:7540] 100
+2016-04-17 05:04:50.789 miscellany[7540:7540] abcdef
+2016-04-17 05:04:50.789 miscellany[7540:7540] X
+2016-04-17 05:04:50.789 miscellany[7540:7540] 100
+2016-04-17 05:04:50.789 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:50.789 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:50.789 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:50.789 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:50.789 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:50.789 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:50.789 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:50.789 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:50.789 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:50.789 miscellany[7540:7540] String not found
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is string A
+2016-04-17 05:04:50.789 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:50.789 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:50.789 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:50.789 miscellany[7540:7540] Month Name
+2016-04-17 05:04:50.789 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:50.789 miscellany[7540:7540]   1   January
+2016-04-17 05:04:50.789 miscellany[7540:7540]   2   February
+2016-04-17 05:04:50.789 miscellany[7540:7540]   3   March
+2016-04-17 05:04:50.789 miscellany[7540:7540]   4   April
+2016-04-17 05:04:50.789 miscellany[7540:7540]   5   May
+2016-04-17 05:04:50.789 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:50.789 miscellany[7540:7540]   7   July
+2016-04-17 05:04:50.789 miscellany[7540:7540]   8   August
+2016-04-17 05:04:50.789 miscellany[7540:7540]   9   September
+2016-04-17 05:04:50.789 miscellany[7540:7540]  10   October
+2016-04-17 05:04:50.789 miscellany[7540:7540]  11   November
+2016-04-17 05:04:50.789 miscellany[7540:7540]  12   December
+2016-04-17 05:04:50.789 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:50.789 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:50.789 miscellany[7540:7540] 1/3
+2016-04-17 05:04:50.790 miscellany[7540:7540] Number = 779, Balance = 717.000000
+2016-04-17 05:04:51.420 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:51.677 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:51.723 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:51.725 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:51.725 miscellany[7540:7540] one
+2016-04-17 05:04:51.725 miscellany[7540:7540] two
+2016-04-17 05:04:51.725 miscellany[7540:7540] three
+2016-04-17 05:04:51.725 miscellany[7540:7540] one
+2016-04-17 05:04:51.725 miscellany[7540:7540] two
+2016-04-17 05:04:51.725 miscellany[7540:7540] three
+2016-04-17 05:04:51.725 miscellany[7540:7540] oop
+2016-04-17 05:04:51.725 miscellany[7540:7540] bork
+2016-04-17 05:04:51.726 miscellany[7540:7540] greeble
+2016-04-17 05:04:51.726 miscellany[7540:7540] ponies
+2016-04-17 05:04:51.726 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:51.726 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:51.726 miscellany[7540:7540] lisi
+2016-04-17 05:04:51.726 miscellany[7540:7540] wangwu
+2016-04-17 05:04:51.726 miscellany[7540:7540] liuqi
+2016-04-17 05:04:51.726 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:51.726 miscellany[7540:7540] lisi
+2016-04-17 05:04:51.726 miscellany[7540:7540] wangwu
+2016-04-17 05:04:51.726 miscellany[7540:7540] liuqi
+2016-04-17 05:04:51.726 miscellany[7540:7540] liuqi
+2016-04-17 05:04:51.726 miscellany[7540:7540] wangwu
+2016-04-17 05:04:51.726 miscellany[7540:7540] lisi
+2016-04-17 05:04:51.726 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:51.726 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:51.726 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:51.726 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:51.726 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:51.726 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:51.726 miscellany[7540:7540] two is 2
+2016-04-17 05:04:51.726 miscellany[7540:7540] two is 2
+2016-04-17 05:04:51.726 miscellany[7540:7540] one is 1
+2016-04-17 05:04:51.726 miscellany[7540:7540] three is 3
+2016-04-17 05:04:51.726 miscellany[7540:7540] two is 2
+2016-04-17 05:04:51.726 miscellany[7540:7540] one is 1
+2016-04-17 05:04:51.726 miscellany[7540:7540] three is 3
+2016-04-17 05:04:51.726 miscellany[7540:7540] one is 1
+2016-04-17 05:04:51.726 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:51.726 miscellany[7540:7540] one is 1
+2016-04-17 05:04:51.726 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:51.726 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:51.726 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:51.726 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:51.726 miscellany[7540:7540] it's a 
+2016-04-17 05:04:51.726 miscellany[7540:7540] three
+2016-04-17 05:04:51.726 miscellany[7540:7540] four
+2016-04-17 05:04:51.726 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:51.726 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:51.726 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:51.726 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:51.726 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:51.726 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:51.726 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:51.726 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:51.726 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:51.726 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:51.726 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:51.726 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:51.726 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:51.726 miscellany[7540:7540] it's document
+2016-04-17 05:04:51.726 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:51.726 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:51.726 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:51.726 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:51.726 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:51.726 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:51.726 miscellany[7540:7540] <RetainTracker: 0x121b850>
+2016-04-17 05:04:51.726 miscellany[7540:7540] 2
+2016-04-17 05:04:51.726 miscellany[7540:7540] 3
+2016-04-17 05:04:51.726 miscellany[7540:7540] 2
+2016-04-17 05:04:51.727 miscellany[7540:7540] 1
+2016-04-17 05:04:51.727 miscellany[7540:7540] 2
+2016-04-17 05:04:51.727 miscellany[7540:7540] 1
+2016-04-17 05:04:51.727 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:51.727 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:51.727 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:51.835 miscellany[7540:7540] Duration: 0.108494s
+2016-04-17 05:04:51.835 miscellany[7540:7540] END
+2016-04-17 05:04:51.835 miscellany[7540:7540] 100
+2016-04-17 05:04:51.835 miscellany[7540:7540] abcdef
+2016-04-17 05:04:51.835 miscellany[7540:7540] X
+2016-04-17 05:04:51.835 miscellany[7540:7540] 100
+2016-04-17 05:04:51.835 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:51.835 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:51.835 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:51.835 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:51.835 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:51.835 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:51.835 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:51.835 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:51.835 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:51.835 miscellany[7540:7540] String not found
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is string A
+2016-04-17 05:04:51.835 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:51.835 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:51.835 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:51.835 miscellany[7540:7540] Month Name
+2016-04-17 05:04:51.835 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:51.835 miscellany[7540:7540]   1   January
+2016-04-17 05:04:51.835 miscellany[7540:7540]   2   February
+2016-04-17 05:04:51.835 miscellany[7540:7540]   3   March
+2016-04-17 05:04:51.835 miscellany[7540:7540]   4   April
+2016-04-17 05:04:51.835 miscellany[7540:7540]   5   May
+2016-04-17 05:04:51.835 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:51.835 miscellany[7540:7540]   7   July
+2016-04-17 05:04:51.835 miscellany[7540:7540]   8   August
+2016-04-17 05:04:51.835 miscellany[7540:7540]   9   September
+2016-04-17 05:04:51.835 miscellany[7540:7540]  10   October
+2016-04-17 05:04:51.835 miscellany[7540:7540]  11   November
+2016-04-17 05:04:51.835 miscellany[7540:7540]  12   December
+2016-04-17 05:04:51.835 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:51.835 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:51.835 miscellany[7540:7540] 1/3
+2016-04-17 05:04:51.836 miscellany[7540:7540] Number = 627, Balance = 747.000000
+2016-04-17 05:04:52.480 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:52.737 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:52.783 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:52.785 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:52.785 miscellany[7540:7540] one
+2016-04-17 05:04:52.785 miscellany[7540:7540] two
+2016-04-17 05:04:52.785 miscellany[7540:7540] three
+2016-04-17 05:04:52.785 miscellany[7540:7540] one
+2016-04-17 05:04:52.785 miscellany[7540:7540] two
+2016-04-17 05:04:52.785 miscellany[7540:7540] three
+2016-04-17 05:04:52.785 miscellany[7540:7540] oop
+2016-04-17 05:04:52.786 miscellany[7540:7540] bork
+2016-04-17 05:04:52.786 miscellany[7540:7540] greeble
+2016-04-17 05:04:52.786 miscellany[7540:7540] ponies
+2016-04-17 05:04:52.786 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:52.786 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:52.786 miscellany[7540:7540] lisi
+2016-04-17 05:04:52.786 miscellany[7540:7540] wangwu
+2016-04-17 05:04:52.786 miscellany[7540:7540] liuqi
+2016-04-17 05:04:52.786 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:52.786 miscellany[7540:7540] lisi
+2016-04-17 05:04:52.786 miscellany[7540:7540] wangwu
+2016-04-17 05:04:52.786 miscellany[7540:7540] liuqi
+2016-04-17 05:04:52.786 miscellany[7540:7540] liuqi
+2016-04-17 05:04:52.786 miscellany[7540:7540] wangwu
+2016-04-17 05:04:52.786 miscellany[7540:7540] lisi
+2016-04-17 05:04:52.786 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:52.786 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:52.786 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:52.786 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:52.786 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:52.786 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:52.786 miscellany[7540:7540] two is 2
+2016-04-17 05:04:52.786 miscellany[7540:7540] two is 2
+2016-04-17 05:04:52.786 miscellany[7540:7540] one is 1
+2016-04-17 05:04:52.786 miscellany[7540:7540] three is 3
+2016-04-17 05:04:52.786 miscellany[7540:7540] two is 2
+2016-04-17 05:04:52.786 miscellany[7540:7540] one is 1
+2016-04-17 05:04:52.786 miscellany[7540:7540] three is 3
+2016-04-17 05:04:52.786 miscellany[7540:7540] one is 1
+2016-04-17 05:04:52.786 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:52.786 miscellany[7540:7540] one is 1
+2016-04-17 05:04:52.786 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:52.786 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:52.786 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:52.786 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:52.786 miscellany[7540:7540] it's a 
+2016-04-17 05:04:52.786 miscellany[7540:7540] three
+2016-04-17 05:04:52.786 miscellany[7540:7540] four
+2016-04-17 05:04:52.786 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:52.786 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:52.786 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:52.786 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:52.786 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:52.786 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:52.786 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:52.786 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:52.786 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:52.786 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:52.786 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:52.786 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:52.786 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:52.786 miscellany[7540:7540] it's document
+2016-04-17 05:04:52.786 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:52.786 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:52.786 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:52.786 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:52.786 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:52.786 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:52.786 miscellany[7540:7540] <RetainTracker: 0x1238070>
+2016-04-17 05:04:52.787 miscellany[7540:7540] 2
+2016-04-17 05:04:52.787 miscellany[7540:7540] 3
+2016-04-17 05:04:52.787 miscellany[7540:7540] 2
+2016-04-17 05:04:52.787 miscellany[7540:7540] 1
+2016-04-17 05:04:52.787 miscellany[7540:7540] 2
+2016-04-17 05:04:52.787 miscellany[7540:7540] 1
+2016-04-17 05:04:52.787 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:52.787 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:52.787 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:52.895 miscellany[7540:7540] Duration: 0.10829s
+2016-04-17 05:04:52.895 miscellany[7540:7540] END
+2016-04-17 05:04:52.895 miscellany[7540:7540] 100
+2016-04-17 05:04:52.895 miscellany[7540:7540] abcdef
+2016-04-17 05:04:52.895 miscellany[7540:7540] X
+2016-04-17 05:04:52.895 miscellany[7540:7540] 100
+2016-04-17 05:04:52.895 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:52.895 miscellany[7540:7540] 1.2345e+19
+2016-04-17 05:04:52.895 miscellany[7540:7540] Numbers are equal
+2016-04-17 05:04:52.895 miscellany[7540:7540] First number is less than second
+2016-04-17 05:04:52.895 miscellany[7540:7540] First 3 chars of str1: Thi
+2016-04-17 05:04:52.895 miscellany[7540:7540] Chars from index 5 of str1: is a string A
+2016-04-17 05:04:52.895 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:52.895 miscellany[7540:7540] Chars from index 8 through 13: a stri
+2016-04-17 05:04:52.895 miscellany[7540:7540] String is at index 10, length is 8
+2016-04-17 05:04:52.895 miscellany[7540:7540] String not found
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is a string A
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is mutable a string A
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is mutable a string A and string B
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is mutable a string A and string B and string c
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is mutable d string B and string c
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is mutable d string c
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is string A
+2016-04-17 05:04:52.895 miscellany[7540:7540] This is a mutable string
+2016-04-17 05:04:52.895 miscellany[7540:7540] An example of a mutable string
+2016-04-17 05:04:52.895 miscellany[7540:7540] An exXmple of X mutXble string
+2016-04-17 05:04:52.895 miscellany[7540:7540] Month Name
+2016-04-17 05:04:52.895 miscellany[7540:7540] ===== ====
+2016-04-17 05:04:52.895 miscellany[7540:7540]   1   January
+2016-04-17 05:04:52.895 miscellany[7540:7540]   2   February
+2016-04-17 05:04:52.895 miscellany[7540:7540]   3   March
+2016-04-17 05:04:52.895 miscellany[7540:7540]   4   April
+2016-04-17 05:04:52.895 miscellany[7540:7540]   5   May
+2016-04-17 05:04:52.895 miscellany[7540:7540]   6   Jane
+2016-04-17 05:04:52.895 miscellany[7540:7540]   7   July
+2016-04-17 05:04:52.895 miscellany[7540:7540]   8   August
+2016-04-17 05:04:52.895 miscellany[7540:7540]   9   September
+2016-04-17 05:04:52.895 miscellany[7540:7540]  10   October
+2016-04-17 05:04:52.895 miscellany[7540:7540]  11   November
+2016-04-17 05:04:52.895 miscellany[7540:7540]  12   December
+2016-04-17 05:04:52.895 miscellany[7540:7540] The point's coordinate is (4,5)
+2016-04-17 05:04:52.895 miscellany[7540:7540] The value of myFraction is:
+2016-04-17 05:04:52.895 miscellany[7540:7540] 1/3
+2016-04-17 05:04:52.896 miscellany[7540:7540] Number = 184, Balance = 293.000000
+2016-04-17 05:04:53.506 miscellany[7540:7540] Bubble Sort Terminated !
+2016-04-17 05:04:53.763 miscellany[7540:7540] Selection Sort Terminated !
+2016-04-17 05:04:53.809 miscellany[7540:7540] Insertion Sort Terminated !
+2016-04-17 05:04:53.811 miscellany[7540:7540] Heap Sort Terminated !
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Dropbox' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] Failed to recurse into directory '/root/Downloads' - No such file or directory
+2016-04-17 05:04:53.811 miscellany[7540:7540] one
+2016-04-17 05:04:53.811 miscellany[7540:7540] two
+2016-04-17 05:04:53.811 miscellany[7540:7540] three
+2016-04-17 05:04:53.812 miscellany[7540:7540] one
+2016-04-17 05:04:53.812 miscellany[7540:7540] two
+2016-04-17 05:04:53.812 miscellany[7540:7540] three
+2016-04-17 05:04:53.812 miscellany[7540:7540] oop
+2016-04-17 05:04:53.812 miscellany[7540:7540] bork
+2016-04-17 05:04:53.812 miscellany[7540:7540] greeble
+2016-04-17 05:04:53.812 miscellany[7540:7540] ponies
+2016-04-17 05:04:53.812 miscellany[7540:7540] joined: oop@bork@greeble@ponies
+2016-04-17 05:04:53.812 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:53.812 miscellany[7540:7540] lisi
+2016-04-17 05:04:53.812 miscellany[7540:7540] wangwu
+2016-04-17 05:04:53.812 miscellany[7540:7540] liuqi
+2016-04-17 05:04:53.812 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:53.812 miscellany[7540:7540] lisi
+2016-04-17 05:04:53.812 miscellany[7540:7540] wangwu
+2016-04-17 05:04:53.812 miscellany[7540:7540] liuqi
+2016-04-17 05:04:53.812 miscellany[7540:7540] liuqi
+2016-04-17 05:04:53.812 miscellany[7540:7540] wangwu
+2016-04-17 05:04:53.812 miscellany[7540:7540] lisi
+2016-04-17 05:04:53.812 miscellany[7540:7540] zhangsan
+2016-04-17 05:04:53.812 miscellany[7540:7540] (I, seem, to, be, a, verb)
+2016-04-17 05:04:53.812 miscellany[7540:7540] thing1: 42/10.5 ()
+2016-04-17 05:04:53.812 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ()
+2016-04-17 05:04:53.812 miscellany[7540:7540] thing with sub things :thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:53.812 miscellany[7540:7540] reconstituted thing: thing1: 42/10.5 ("thing2: 23/13.0 ()", "thing3: 17/9.0 ()")
+2016-04-17 05:04:53.812 miscellany[7540:7540] two is 2
+2016-04-17 05:04:53.812 miscellany[7540:7540] two is 2
+2016-04-17 05:04:53.812 miscellany[7540:7540] one is 1
+2016-04-17 05:04:53.812 miscellany[7540:7540] three is 3
+2016-04-17 05:04:53.812 miscellany[7540:7540] two is 2
+2016-04-17 05:04:53.812 miscellany[7540:7540] one is 1
+2016-04-17 05:04:53.812 miscellany[7540:7540] three is 3
+2016-04-17 05:04:53.812 miscellany[7540:7540] one is 1
+2016-04-17 05:04:53.812 miscellany[7540:7540] three is 叁
+2016-04-17 05:04:53.812 miscellany[7540:7540] one is 1
+2016-04-17 05:04:53.812 miscellany[7540:7540] numberInt is 10
+2016-04-17 05:04:53.812 miscellany[7540:7540] numberFloat is 0.800000
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=18, length=20}
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=20, length=40}
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=30, length=60}
+2016-04-17 05:04:53.812 miscellany[7540:7540] range.location not found.
+2016-04-17 05:04:53.812 miscellany[7540:7540] it's a dog
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=10, length=3}
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=8, length=1}
+2016-04-17 05:04:53.812 miscellany[7540:7540] it's a 
+2016-04-17 05:04:53.812 miscellany[7540:7540] three
+2016-04-17 05:04:53.812 miscellany[7540:7540] four
+2016-04-17 05:04:53.812 miscellany[7540:7540] rangeOne is equal to rangeTwo
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=3, length=3}
+2016-04-17 05:04:53.812 miscellany[7540:7540] 8 in {1, 20}
+2016-04-17 05:04:53.812 miscellany[7540:7540] NSMaxRange is sum of location and length
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=1, length=14}
+2016-04-17 05:04:53.812 miscellany[7540:7540] range is {location=1, length=20}
+2016-04-17 05:04:53.812 miscellany[7540:7540] {x = 2.5; y = 3.8}
+2016-04-17 05:04:53.812 miscellany[7540:7540] {width = 10; height = 20}
+2016-04-17 05:04:53.812 miscellany[7540:7540] {x = 4.5; y = 8.8; width = 30; height = 40}
+2016-04-17 05:04:53.812 miscellany[7540:7540] {x = 2.5; y = 3.8; width = 10; height = 20}
+2016-04-17 05:04:53.812 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:53.812 miscellany[7540:7540] str length = 13
+2016-04-17 05:04:53.812 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:53.812 miscellany[7540:7540] thing11 equal to thing22
+2016-04-17 05:04:53.812 miscellany[7540:7540] this is a draft
+2016-04-17 05:04:53.812 miscellany[7540:7540] it's document
+2016-04-17 05:04:53.812 miscellany[7540:7540] chapter is at {location=6, length=7}
+2016-04-17 05:04:53.813 miscellany[7540:7540] this is a dog
+2016-04-17 05:04:53.813 miscellany[7540:7540] friends are James BethLynn Evan
+2016-04-17 05:04:53.813 miscellany[7540:7540] {x = 1; y = 2; width = 30; height = 40}
+2016-04-17 05:04:53.813 miscellany[7540:7540] {x = 10; y = 20}
+2016-04-17 05:04:53.813 miscellany[7540:7540] init: retain count of 1.
+2016-04-17 05:04:53.813 miscellany[7540:7540] <RetainTracker: 0x1254890>
+2016-04-17 05:04:53.813 miscellany[7540:7540] 2
+2016-04-17 05:04:53.813 miscellany[7540:7540] 3
+2016-04-17 05:04:53.813 miscellany[7540:7540] 2
+2016-04-17 05:04:53.813 miscellany[7540:7540] 1
+2016-04-17 05:04:53.813 miscellany[7540:7540] 2
+2016-04-17 05:04:53.813 miscellany[7540:7540] 1
+2016-04-17 05:04:53.813 miscellany[7540:7540] dealloc called.Bye bye.
+2016-04-17 05:04:53.813 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:53.813 miscellany[7540:7540] drawCircle called
+2016-04-17 05:04:53.921 miscellany[7540:7540] Duration: 0.108434s
+2016-04-17 05:04:53.921 miscellany[7540:7540] END
+
+Executable name: source_files/miscellany/miscellany
+Executable: ./source_files/miscellany/miscellany
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 185892.499756J
+PowerPlane0 (core) for core 1 energy before: 102214.468567J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 76.720337J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 7997.716492J
+
+Executing ./source_files/miscellany/miscellany
+
+Total time: 10.535667s
+Package energy after: 186081.031738  (188.531982J consumed)
+PowerPlane0 (core) for core 1 energy after: 102316.917603  (102.449036J consumed)
+PowerPlane1 (on-core GPU if avail) after: 76.720337  (0.000000J consumed)
+DRAM energy after: 8005.571899  (7.855408J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

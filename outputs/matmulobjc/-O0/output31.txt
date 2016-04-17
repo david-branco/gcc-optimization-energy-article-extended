@@ -1,0 +1,37 @@
+2016-04-17 02:22:53.701 matmulobjc[4073:4073] END
+
+Executable name: source_files/matmulobjc/matmulobjc
+Executable: ./source_files/matmulobjc/matmulobjc
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 10917.709106J
+PowerPlane0 (core) for core 1 energy before: 5248.068176J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 62.695374J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 808.579285J
+
+Executing ./source_files/matmulobjc/matmulobjc
+
+Total time: 10.350873s
+Package energy after: 11114.124268  (196.415161J consumed)
+PowerPlane0 (core) for core 1 energy after: 5362.005371  (113.937195J consumed)
+PowerPlane1 (on-core GPU if avail) after: 62.818298  (0.122925J consumed)
+DRAM energy after: 816.138977  (7.559692J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

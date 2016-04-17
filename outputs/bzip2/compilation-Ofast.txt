@@ -1,0 +1,51 @@
+make: Entering directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/bzip2'
+rm -f *.o libbz2.a bzip2 bzip2recover \
+sample1.rb2 sample2.rb2 sample3.rb2 \
+sample1.tst sample2.tst sample3.tst
+
+If compilation produces errors, or a large number of warnings,
+please read README.COMPILATION.PROBLEMS -- you might be able to
+adjust the flags in this Makefile to improve matters.
+
+Also in README.COMPILATION.PROBLEMS are some hints that may help
+if your build produces an executable which is unable to correctly
+handle so-called 'large files' -- files of size 2GB or more.
+
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c blocksort.c
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c huffman.c
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c crctable.c
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c randtable.c
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c compress.c
+compress.c: In function ‘BZ2_compressBlock’:
+compress.c:391:54: warning: ‘cost[5]’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+                for (t = 0; t < nGroups; t++) cost[t] += s->len[t][icv];
+                                                      ^
+compress.c:256:11: note: ‘cost[5]’ was declared here
+    UInt16 cost[BZ_N_GROUPS];
+           ^
+compress.c:401:25: warning: ‘cost[3]’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             if (cost[t] < bc) { bc = cost[t]; bt = t; };
+                         ^
+compress.c:256:11: note: ‘cost[3]’ was declared here
+    UInt16 cost[BZ_N_GROUPS];
+           ^
+compress.c:401:25: warning: ‘cost[2]’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             if (cost[t] < bc) { bc = cost[t]; bt = t; };
+                         ^
+compress.c:256:11: note: ‘cost[2]’ was declared here
+    UInt16 cost[BZ_N_GROUPS];
+           ^
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c decompress.c
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c bzlib.c
+rm -f libbz2.a
+ar cq libbz2.a blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+ranlib libbz2.a
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c bzip2.c
+bzip2.c: In function ‘testStream’:
+bzip2.c:557:37: warning: variable ‘nread’ set but not used [-Wunused-but-set-variable]
+    Int32   bzerr, bzerr_dummy, ret, nread, streamNo, i;
+                                     ^
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64  -o bzip2 bzip2.o -L. -lbz2
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64 -c bzip2recover.c
+gcc -Wall -Winline -Ofast -D_FILE_OFFSET_BITS=64  -o bzip2recover bzip2recover.o
+make: Leaving directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/bzip2'

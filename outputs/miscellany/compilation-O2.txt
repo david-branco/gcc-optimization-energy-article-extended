@@ -1,0 +1,18 @@
+make: Entering directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/miscellany'
+gcc -O2 -o miscellany miscellany.m -MMD -MP -D_FORTIFY_SOURCE=2 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNU_RUNTIME=1 -DGNUSTEP_BASE_LIBRARY=1 -fno-strict-aliasing -pthread -fPIC -Wall -DGSWARN -DGSDIAGNOSE -Wno-import -march=x86-64 -mtune=generic -pipe -fstack-protector-strong --param=ssp-buffer-size=4 -fgnu-runtime -fconstant-string-class=NSConstantString -I. -I/home/db/GNUstep/Library/Headers -I/usr/include -rdynamic -Wl,--sort-common,--as-needed,-z,relro -pthread -fgnu-runtime -L/home/db/GNUstep/Library/Libraries -L/usr/lib -lgnustep-base -lobjc -lm
+miscellany.m:310:1: warning: method possibly missing a [super dealloc] call
+ }
+ ^
+miscellany.m: In function ‘-[RetainTracker init]’:
+miscellany.m:359:5: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+     if (self = [super init]) 
+     ^
+miscellany.m: In function ‘main’:
+miscellany.m:911:19: warning: missing braces around initializer [-Wmissing-braces]
+     NSRect rect = {4.5, 8.8, 30, 40};
+                   ^
+miscellany.m:911:19: note: (near initialization for ‘rect’)
+miscellany.m:830:5: warning: ‘marray2’ is used uninitialized in this function [-Wuninitialized]
+     [marray2 addObject:numberInt];
+     ^
+make: Leaving directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/miscellany'

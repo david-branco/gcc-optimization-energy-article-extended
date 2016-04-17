@@ -1,0 +1,164 @@
+make: Entering directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/pbrt'
+rm -f objs/* bin/* core/pbrtlex.[ch]* core/pbrtparse.[ch]* pbrt cornell.exrcornell-ML-RND-all
+/bin/mkdir -p bin objs
+Building object objs/tools_bsdftest.o
+Building object objs/tools_exravg.o
+Building object objs/tools_exrdiff.o
+Building object objs/tools_obj2pbrt.o
+Building object objs/main_pbrt.o
+main/pbrt.cpp: In function ‘int main(int, char**)’:
+main/pbrt.cpp:51:13: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+     argv[1] = "--ncores";
+             ^
+main/pbrt.cpp:52:13: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+     argv[2] = "1";
+             ^
+main/pbrt.cpp:53:13: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+     argv[3] = "cornell-ML.pbrt";
+             ^
+Building object objs/core_targa.o
+Building object objs/core_api.o
+Building object objs/core_spectrum.o
+Building object objs/core_parallel.o
+core/parallel.cpp: In constructor ‘RWMutexLock::RWMutexLock(RWMutex&, RWMutexLockType)’:
+core/parallel.cpp:163:9: warning: variable ‘err’ set but not used [-Wunused-but-set-variable]
+     int err;
+         ^
+Building object objs/core_shrots.o
+Building object objs/core_volume.o
+core/volume.cpp: In function ‘float RdToAlphap(float, float)’:
+core/volume.cpp:112:11: warning: variable ‘kd0’ set but not used [-Wunused-but-set-variable]
+     float kd0 = RdIntegral(alphaLow, A);
+           ^
+core/volume.cpp:113:11: warning: variable ‘kd1’ set but not used [-Wunused-but-set-variable]
+     float kd1 = RdIntegral(alphaHigh, A);
+           ^
+Building object objs/core_light.o
+Building object objs/core_progressreporter.o
+Building object objs/core_imageio.o
+core/imageio.cpp: In function ‘bool WriteImagePFM(const string&, const float*, int, int)’:
+core/imageio.cpp:422:18: warning: variable ‘nFloats’ set but not used [-Wunused-but-set-variable]
+     unsigned int nFloats;
+                  ^
+Building object objs/core_scene.o
+Building object objs/core_timer.o
+Building object objs/core_transform.o
+Building object objs/core_shape.o
+YACC'ing pbrtparse.yy
+Building object objs/core_pbrtparse.o
+Building object objs/core_quaternion.o
+Building object objs/core_integrator.o
+Building object objs/core_diffgeom.o
+Building object objs/core_error.o
+Building object objs/core_texture.o
+Building object objs/core_intersection.o
+Building object objs/core_renderer.o
+Building object objs/core_parser.o
+Building object objs/core_sh.o
+Building object objs/core_stdafx.o
+Building object objs/core_geometry.o
+Building object objs/core_rng.o
+Building object objs/core_fileutil.o
+Building object objs/core_floatfile.o
+Lex'ing pbrtlex.ll
+Building object objs/core_pbrtlex.o
+Building object objs/core_sampler.o
+Building object objs/core_probes.o
+Building object objs/core_primitive.o
+Building object objs/core_paramset.o
+Building object objs/core_camera.o
+Building object objs/core_memory.o
+Building object objs/core_reflection.o
+Building object objs/core_filter.o
+Building object objs/core_montecarlo.o
+Building object objs/core_material.o
+Building object objs/core_film.o
+Building object objs/accelerators_grid.o
+Building object objs/accelerators_bvh.o
+Building object objs/accelerators_kdtreeaccel.o
+Building object objs/cameras_orthographic.o
+Building object objs/cameras_perspective.o
+Building object objs/cameras_environment.o
+Building object objs/film_image.o
+Building object objs/filters_mitchell.o
+Building object objs/filters_triangle.o
+Building object objs/filters_box.o
+Building object objs/filters_sinc.o
+Building object objs/filters_gaussian.o
+Building object objs/integrators_igi.o
+Building object objs/integrators_dipolesubsurface.o
+Building object objs/integrators_directlighting.o
+Building object objs/integrators_photonmap.o
+Building object objs/integrators_whitted.o
+Building object objs/integrators_single.o
+Building object objs/integrators_irradiancecache.o
+Building object objs/integrators_path.o
+Building object objs/integrators_ambientocclusion.o
+Building object objs/integrators_glossyprt.o
+Building object objs/integrators_emission.o
+Building object objs/integrators_useprobes.o
+Building object objs/integrators_diffuseprt.o
+Building object objs/lights_diffuse.o
+Building object objs/lights_distant.o
+Building object objs/lights_infinite.o
+Building object objs/lights_goniometric.o
+Building object objs/lights_spot.o
+Building object objs/lights_point.o
+Building object objs/lights_projection.o
+Building object objs/materials_matte.o
+Building object objs/materials_substrate.o
+Building object objs/materials_measured.o
+Building object objs/materials_subsurface.o
+Building object objs/materials_uber.o
+Building object objs/materials_mirror.o
+Building object objs/materials_shinymetal.o
+Building object objs/materials_translucent.o
+Building object objs/materials_kdsubsurface.o
+Building object objs/materials_glass.o
+Building object objs/materials_metal.o
+Building object objs/materials_mixmat.o
+Building object objs/materials_plastic.o
+Building object objs/renderers_samplerrenderer.o
+Building object objs/renderers_metropolis.o
+Building object objs/renderers_createprobes.o
+Building object objs/renderers_aggregatetest.o
+Building object objs/renderers_surfacepoints.o
+Building object objs/samplers_bestcandidate.o
+Building object objs/samplers_random.o
+Building object objs/samplers_adaptive.o
+Building object objs/samplers_stratified.o
+Building object objs/samplers_halton.o
+Building object objs/samplers_lowdiscrepancy.o
+Building object objs/shapes_disk.o
+Building object objs/shapes_sphere.o
+Building object objs/shapes_cone.o
+Building object objs/shapes_loopsubdiv.o
+Building object objs/shapes_cylinder.o
+Building object objs/shapes_nurbs.o
+Building object objs/shapes_trianglemesh.o
+Building object objs/shapes_hyperboloid.o
+Building object objs/shapes_heightfield.o
+Building object objs/shapes_paraboloid.o
+Building object objs/textures_uv.o
+Building object objs/textures_wrinkled.o
+Building object objs/textures_marble.o
+Building object objs/textures_fbm.o
+Building object objs/textures_dots.o
+Building object objs/textures_bilerp.o
+Building object objs/textures_mix.o
+Building object objs/textures_imagemap.o
+Building object objs/textures_constant.o
+Building object objs/textures_checkerboard.o
+Building object objs/textures_windy.o
+Building object objs/textures_scale.o
+Building object objs/volumes_volumegrid.o
+Building object objs/volumes_homogeneous.o
+Building object objs/volumes_exponential.o
+Building the core rendering library (libpbrt.a)
+Linking bin/pbrt
+cp bin/pbrt .
+Linking bin/bsdftest
+Linking bin/exravg
+Linking bin/exrdiff
+Linking bin/obj2pbrt
+make: Leaving directory '/home/db/Dropbox/MEI/Artigo/extensao_artigo/source_files/pbrt'

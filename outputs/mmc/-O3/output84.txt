@@ -1,0 +1,36 @@
+
+Executable name: source_files/mmc/mmc
+Executable: ./source_files/mmc/mmc
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 110974.074341J
+PowerPlane0 (core) for core 1 energy before: 28161.238464J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 552.418457J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 36156.525940J
+
+Executing ./source_files/mmc/mmc
+
+Total time: 22.222142s
+Package energy after: 111372.352234  (398.277893J consumed)
+PowerPlane0 (core) for core 1 energy after: 28385.220093  (223.981628J consumed)
+PowerPlane1 (on-core GPU if avail) after: 552.463928  (0.045471J consumed)
+DRAM energy after: 36176.791260  (20.265320J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+
