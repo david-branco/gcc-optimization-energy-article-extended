@@ -2,7 +2,8 @@
 Authors: <br>
 David Branco (davidbranco88 at gmail.com) <br>
 Pedro Rangel Henriques (pedrorangelhenriques at gmail.com)<br>
-Project Website: http://www4.di.uminho.pt/~gepl/GreenGCC/
+
+Project Website: http://www4.di.uminho.pt/~gepl/GreenGCC/<br>
 
 Project Structure:
 - rapl-read.c  : measurement software;
